@@ -1,0 +1,1 @@
+/home/bangursis/GolandProjects/Rustlings/target/debug/hello_world: /home/bangursis/GolandProjects/Rustlings/Introduction/Getting\ started/Hello\ World/src/main.rs /home/bangursis/GolandProjects/Rustlings/target/debug/build/escargot-399722d7b5c506a1/out/current_target.txt build.rs
